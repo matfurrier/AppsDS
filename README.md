@@ -59,8 +59,10 @@ Para utilizar o aplicativo, siga os passos abaixo:
 
 ## 🤝 Contribuição
 
-As contribuições para a melhoria deste projeto são bem-vindas. Sinta-se à vontade para enviar pull requests ou abrir issues relatando problemas ou sugestões.
+Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. E não se esqueça de ⭐️ este projeto para ajudar a divulgá-lo! 😄
 
 ## 📞 Contato
 
-Para mais informações ou contato, envie um email para matfurrier@gmail.com.
+Mateus Furrier - matfurrier@gmail.com
+
+Link do Projeto: [https://github.com/matfurrier/AppsDS](https://github.com/matfurrier/AppsDS)
