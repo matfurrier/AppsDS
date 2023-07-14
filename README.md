@@ -16,7 +16,7 @@ Ela proporciona acesso fácil e rápido aos seguintes aplicativos:
 - 🎯 Metas: Este aplicativo ajudará os colaboradores a preencherem suas metas anuais e auxiliará na avaliação de desempenho de cada colaborador e departamento.
 - 📊 Workflow de Produtos: Um aplicativo para gerenciar o fluxo de trabalho de cadastro dos produtos.
 - 🧪 DS Compat: Aplicativo desenvolvido para permitir a análise rápida e eficiente da compatibilidade e solubilidade de nossos produtos.
-- 📈 Qlik Sense: Nosso BI para tomada de decisões estratégicas.
+- 💼 Akronus: Nosso portal de RH para acesso à holerites, férias e cartão ponto.
 - 💰 Budget do Campo: Um aplicativo para gerenciar o planejamento de vendas.
 
 ## 🚀 Tecnologias Utilizadas
@@ -43,7 +43,7 @@ Para utilizar o aplicativo, siga os passos abaixo:
 1. Acesse a plataforma através do seguinte endereço: [http://apps.desangosse.com.br:40000/](http://apps.desangosse.com.br:40000/).
 2. Ao acessar a plataforma, você poderá visualizar todos os aplicativos disponíveis.
 
-![1](https://github.com/matfurrier/AppsDS/assets/30526394/c814bf82-4eb5-4053-a136-0dff6b35bc34)
+![1-1](https://github.com/matfurrier/AppsDS/assets/30526394/a514549f-2205-464c-ba62-8d4db62b3bb0)
 
 3. Selecione o aplicativo desejado no menu superior.
 4. O aplicativo selecionado será renderizado na tela, permitindo que você utilize suas funcionalidades.
