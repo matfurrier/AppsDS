@@ -58,6 +58,9 @@ Para utilizar o aplicativo, siga os passos abaixo:
 ![5](https://github.com/matfurrier/AppsDS/assets/30526394/2eb7fe19-b08c-4bc8-8560-d2a40f2b1fb2)
 ![6-1](https://github.com/matfurrier/AppsDS/assets/30526394/ecd3b6c2-2b80-4e06-8dc4-611f58f44293)
 ![7](https://github.com/matfurrier/AppsDS/assets/30526394/85336b32-2a39-4815-a8f4-a7211662c784)
+![pedidossap](https://github.com/matfurrier/AppsDS/assets/30526394/ebbb627f-02f1-419f-805f-66d8dafbe649)
+![Design sem nome (13)](https://github.com/matfurrier/AppsDS/assets/30526394/da373686-978d-4d0a-bbfa-950e84b85f51)
+![Design sem nome (6)](https://github.com/matfurrier/AppsDS/assets/30526394/35d66bf6-63c1-4b18-8d0b-dec898630cf7)
 
 5. Você pode alternar a seleção de aplicativos a qualquer momento usando o menu superior.
 
