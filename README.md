@@ -18,6 +18,10 @@ Ela proporciona acesso fácil e rápido aos seguintes aplicativos:
 - 🧪 DS Compat: Aplicativo desenvolvido para permitir a análise rápida e eficiente da compatibilidade e solubilidade de nossos produtos.
 - 💼 Akronus: Nosso portal de RH para acesso à holerites, férias e cartão ponto.
 - 💰 Budget do Campo: Um aplicativo para gerenciar o planejamento de vendas.
+- 📝 Pedidos SAP - Sistema de Aprovações: Sistema de aprovações automatizado integrado com o SAP/CRM.
+- 📈 MPV: Ferramenta para análise de desempenho de vendas, extraídos do SAP.
+- 📊 Planejamento Budget x Realizado: Ferramenta integrada para gestão de budget e acompanhamento de resultados, extraídos do SAP B1.
+- 📑 CRM One: Ferramenta CRM para inserção de pedidos.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -43,7 +47,7 @@ Para utilizar o aplicativo, siga os passos abaixo:
 1. Acesse a plataforma através do seguinte endereço: [http://apps.desangosse.com.br:40000/](http://apps.desangosse.com.br:40000/).
 2. Ao acessar a plataforma, você poderá visualizar todos os aplicativos disponíveis.
 
-![1-1](https://github.com/matfurrier/AppsDS/assets/30526394/a514549f-2205-464c-ba62-8d4db62b3bb0)
+![2024-04-26](https://github.com/matfurrier/AppsDS/assets/30526394/dba0f427-2809-4849-aa82-b2bb6d1e4bde)
 
 3. Selecione o aplicativo desejado no menu superior.
 4. O aplicativo selecionado será renderizado na tela, permitindo que você utilize suas funcionalidades.
