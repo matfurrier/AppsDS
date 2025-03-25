@@ -1,75 +1,145 @@
+<p align="right">
+  <b>[EN]</b> | <a href="#pt-versão-em-português">[PT]</a>
+</p>
+
+# 📱 Corporate Apps Platform
+
+## 📝 Summary
+
+- [📱 Corporate Apps Platform](#-corporate-apps-platform)
+- [🚀 Technologies Used](#-technologies-used)
+- [✅ Prerequisites](#-prerequisites)
+- [🔧 Features](#-features)
+- [📖 Usage](#-usage)
+- [🤝 Contributing](#-contributing)
+- [📞 Contact](#-contact)
+
+The **Corporate Apps Platform** is a centralized hub that hosts various internal applications developed by our company. It enables fast, user-friendly access to tools that support strategic and operational routines.
+
+### 🧩 Available Apps
+
+- 🎯 **Goals**: Helps employees fill out annual goals and supports performance reviews by department.
+- 📊 **Product Workflow**: Manages product registration workflows.
+- 🧪 **DS Compat**: Tool for checking compatibility and solubility of chemical products.
+- 💼 **Akronus**: Our HR portal for payslips, vacations, and time tracking.
+- 💰 **Budget Campo**: Sales planning management tool for the field team.
+- 📝 **SAP Orders - Approval System**: Automated approval system integrated with SAP/CRM.
+- 📈 **MPV**: Sales performance analytics pulled from SAP.
+- 📊 **Budget vs Actual**: Integrated dashboard comparing projected vs actual values from SAP B1.
+- 📑 **CRM One**: Lightweight CRM system for order entry.
+
+## 🚀 Technologies Used
+
+- **React**: UI library for building frontend interfaces.
+- **Material-UI**: Component framework based on Material Design.
+- **GitHub API**: Used for authentication and token validation.
+
+## ✅ Prerequisites
+
+- Node.js must be installed on your machine.
+
+## 🔧 Features
+
+- Displays all apps on the home screen.
+- Fullscreen rendering upon app selection.
+- Navigation support via return button and top menu.
+
+## 📖 Usage
+
+1. Access the platform at: [http://apps.desangosse.com.br:40000/](http://apps.desangosse.com.br:40000/)
+2. On the homepage, you'll see a list of all available applications.
+
+![Screenshot 1](https://github.com/matfurrier/AppsDS/assets/30526394/dba0f427-2809-4849-aa82-b2bb6d1e4bde)
+
+3. Select any app from the top menu to open it in full view.
+
+![Screenshot 2](https://github.com/matfurrier/AppsDS/assets/30526394/6d1c46fa-bc05-4501-827b-68ac43139df0)
+![Screenshot 3](https://github.com/matfurrier/AppsDS/assets/30526394/1c1a16e6-f027-418b-b255-9a8b40a9a5af)
+
+4. You can switch between apps anytime using the menu.
+
+![Screenshot 4](https://github.com/matfurrier/AppsDS/assets/30526394/cfc023ee-a2d4-4314-bd48-43bc7f87e8fe)
+
+## 🤝 Contributing
+
+Questions, feedback, or suggestions are welcome. If you like the project, please ⭐ it to show your support!
+
+## 📞 Contact
+
+Mateus Furrier - [matfurrier@gmail.com](mailto:matfurrier@gmail.com)
+
+Project Link: [https://github.com/matfurrier/AppsDS](https://github.com/matfurrier/AppsDS)
+
+---
+
+<a id="pt-versão-em-português"></a>
+<p align="right">
+  <a href="#">[EN]</a> | <b>[PT]</b>
+</p>
+
 # 📱 Plataforma de Aplicativos Corporativos
 
 ## 📝 Sumário
+
 - [📱 Plataforma de Aplicativos Corporativos](#-plataforma-de-aplicativos-corporativos)
-  - [📝 Sumário](#-sumário)
-  - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-  - [✅ Pré-requisitos](#-pré-requisitos)
-  - [🔧 Funcionalidades](#-funcionalidades)
-  - [📖 Uso](#-uso)
-  - [🤝 Contribuição](#-contribuição)
-  - [📞 Contato](#-contato)
+- [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [🔧 Funcionalidades](#-funcionalidades)
+- [📖 Uso](#-uso)
+- [🤝 Contribuição](#-contribuição)
+- [📞 Contato](#-contato)
 
-A Plataforma de Aplicativos Corporativos é uma plataforma centralizada que reúne diversos aplicativos desenvolvidos pela nossa empresa. 
-Ela proporciona acesso fácil e rápido aos seguintes aplicativos:
+A **Plataforma de Aplicativos Corporativos** é uma central que reúne diversos aplicativos internos desenvolvidos pela empresa. Ela permite acesso rápido e eficiente a ferramentas que apoiam rotinas estratégicas e operacionais.
 
-- 🎯 Metas: Este aplicativo ajudará os colaboradores a preencherem suas metas anuais e auxiliará na avaliação de desempenho de cada colaborador e departamento.
-- 📊 Workflow de Produtos: Um aplicativo para gerenciar o fluxo de trabalho de cadastro dos produtos.
-- 🧪 DS Compat: Aplicativo desenvolvido para permitir a análise rápida e eficiente da compatibilidade e solubilidade de nossos produtos.
-- 💼 Akronus: Nosso portal de RH para acesso à holerites, férias e cartão ponto.
-- 💰 Budget do Campo: Um aplicativo para gerenciar o planejamento de vendas.
-- 📝 Pedidos SAP - Sistema de Aprovações: Sistema de aprovações automatizado integrado com o SAP/CRM.
-- 📈 MPV: Ferramenta para análise de desempenho de vendas, extraídos do SAP.
-- 📊 Planejamento Budget x Realizado: Ferramenta integrada para gestão de budget e acompanhamento de resultados, extraídos do SAP B1.
-- 📑 CRM One: Ferramenta CRM para inserção de pedidos.
+### 🧩 Aplicativos Disponíveis
+
+- 🎯 **Metas**: Ajuda colaboradores no preenchimento de metas e apoia avaliações de desempenho por setor.
+- 📊 **Workflow de Produtos**: Gerencia o fluxo de cadastro de produtos.
+- 🧪 **DS Compat**: Verifica compatibilidade e solubilidade de produtos químicos.
+- 💼 **Akronus**: Portal de RH com acesso a holerites, férias e ponto eletrônico.
+- 💰 **Budget do Campo**: Gerenciamento de planejamento de vendas da equipe de campo.
+- 📝 **Pedidos SAP - Sistema de Aprovações**: Sistema automatizado integrado ao SAP/CRM.
+- 📈 **MPV**: Análise de desempenho de vendas a partir de dados do SAP.
+- 📊 **Planejamento Budget x Realizado**: Dashboard comparativo com dados do SAP B1.
+- 📑 **CRM One**: Sistema leve de CRM para entrada de pedidos.
 
 ## 🚀 Tecnologias Utilizadas
 
-- React: Uma biblioteca JavaScript para construir interfaces de usuário.
-- Material-UI: Uma biblioteca de componentes UI para React baseada no Material Design.
-- GitHub API: API utilizada para autenticação e validação de token.
+- **React**: Biblioteca JavaScript para construção da interface.
+- **Material-UI**: Framework de componentes com base no Material Design.
+- **GitHub API**: Usada para autenticação e validação de token.
 
 ## ✅ Pré-requisitos
 
-- Node.js: Certifique-se de ter o Node.js instalado em sua máquina.
-
+- É necessário ter o Node.js instalado em sua máquina.
 
 ## 🔧 Funcionalidades
 
-- Exibição dos aplicativos na tela inicial.
-- Clique em um aplicativo para abrir em tela cheia.
-- Botão de voltar para retornar à tela inicial.
+- Exibe todos os aplicativos disponíveis na tela inicial.
+- Abre o aplicativo em tela cheia ao clicar.
+- Suporte à navegação via botão de retorno e menu superior.
 
 ## 📖 Uso
 
-Para utilizar o aplicativo, siga os passos abaixo:
+1. Acesse: [http://apps.desangosse.com.br:40000/](http://apps.desangosse.com.br:40000/)
+2. Visualize os apps disponíveis.
 
-1. Acesse a plataforma através do seguinte endereço: [http://apps.desangosse.com.br:40000/](http://apps.desangosse.com.br:40000/).
-2. Ao acessar a plataforma, você poderá visualizar todos os aplicativos disponíveis.
+![Screenshot 1](https://github.com/matfurrier/AppsDS/assets/30526394/dba0f427-2809-4849-aa82-b2bb6d1e4bde)
 
-![2024-04-26](https://github.com/matfurrier/AppsDS/assets/30526394/dba0f427-2809-4849-aa82-b2bb6d1e4bde)
+3. Clique em qualquer app no menu superior para abri-lo.
 
-3. Selecione o aplicativo desejado no menu superior.
-4. O aplicativo selecionado será renderizado na tela, permitindo que você utilize suas funcionalidades.
+![Screenshot 2](https://github.com/matfurrier/AppsDS/assets/30526394/6d1c46fa-bc05-4501-827b-68ac43139df0)
 
-![2](https://github.com/matfurrier/AppsDS/assets/30526394/6d1c46fa-bc05-4501-827b-68ac43139df0)
-![3](https://github.com/matfurrier/AppsDS/assets/30526394/1c1a16e6-f027-418b-b255-9a8b40a9a5af)
-![4](https://github.com/matfurrier/AppsDS/assets/30526394/cfc023ee-a2d4-4314-bd48-43bc7f87e8fe)
-![5](https://github.com/matfurrier/AppsDS/assets/30526394/2eb7fe19-b08c-4bc8-8560-d2a40f2b1fb2)
-![6-1](https://github.com/matfurrier/AppsDS/assets/30526394/ecd3b6c2-2b80-4e06-8dc4-611f58f44293)
-![7](https://github.com/matfurrier/AppsDS/assets/30526394/85336b32-2a39-4815-a8f4-a7211662c784)
-![pedidossap](https://github.com/matfurrier/AppsDS/assets/30526394/ebbb627f-02f1-419f-805f-66d8dafbe649)
-![Design sem nome (13)](https://github.com/matfurrier/AppsDS/assets/30526394/da373686-978d-4d0a-bbfa-950e84b85f51)
-![Design sem nome (6)](https://github.com/matfurrier/AppsDS/assets/30526394/35d66bf6-63c1-4b18-8d0b-dec898630cf7)
+4. Alterne entre os aplicativos a qualquer momento.
 
-5. Você pode alternar a seleção de aplicativos a qualquer momento usando o menu superior.
+![Screenshot 3](https://github.com/matfurrier/AppsDS/assets/30526394/cfc023ee-a2d4-4314-bd48-43bc7f87e8fe)
 
 ## 🤝 Contribuição
 
-Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. E não se esqueça de ⭐️ este projeto para ajudar a divulgá-lo! 😄
+Sugestões, dúvidas ou elogios são bem-vindos. Se curtir o projeto, deixe sua ⭐!
 
 ## 📞 Contato
 
-Mateus Furrier - matfurrier@gmail.com
+Mateus Furrier - [matfurrier@gmail.com](mailto:matfurrier@gmail.com)
 
 Link do Projeto: [https://github.com/matfurrier/AppsDS](https://github.com/matfurrier/AppsDS)
